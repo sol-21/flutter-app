@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064548989902",
+    "project_id": "fir-getx-app-bd659",
+    "storage_bucket": "fir-getx-app-bd659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064548989902:android:c3683197ebad87952bc99f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064548989902-6k5oioi6k8697s9c6cb5akgc5giflfa5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQD0GSXY6Y4V8rfXtZp-67ihW0Ps1aimU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064548989902-6k5oioi6k8697s9c6cb5akgc5giflfa5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
